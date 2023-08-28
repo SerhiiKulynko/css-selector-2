@@ -1,1 +1,115 @@
+/* Урок  4 */
+
+/* Завдання №1  */
+.btn:hover {
+    color: red;
+    background: yellow;
+}
+
+/* Завдання №2  */
+.title:hover {
+    color: green;
+}
+
+/* Завдання №3  */
+a:visited {
+    color: yellow;
+}
+ 
+/* Завдання №4  */
+.lesson-four-task-four >#sidebar > a:link {
+    color: red;
+}
+
+/* Завдання №5  */
+.lesson-four-task-five > .btn:active {
+    background: blue;
+}
+
+/* Завдання №6  */
+.lesson-four-task-six > .btn:focus {
+    background: rgb(221, 130, 34);
+    color: rgb(221, 130, 34);
+}
+
+/* Завдання №7  */
+.lesson-four-task-seven > #target:target {
+    background: green;
+    color: #fff;
+}
+
+/* Завдання №8  */
+.lesson-four-task-eight > input[type="checkbox"] ~ #target {
+    background: blue;
+    color: #fff;
+}
+
+/* Завдання №9  */
+.lesson-four-task-nine > p:lang(uk) {
+    color: blue;
+}
+
+/* Завдання №10  */
+.lesson-four-task-ten  *:enabled {
+    color: red;
+    background: yellow;
+}
+
+/* Завдання №11  */
+.lesson-four-task-eleven  input:disabled {
+        background: yellow;
+}
+
+/* Завдання №12  */
+.lesson-four-task-twelve > input:read-write {
+    background: yellow;
+}
+
+/* Завдання №13  */
+.lesson-four-task-thirteen > input:read-only {
+    background: yellow;
+}
+
+/* Завдання №14  */
+.lesson-four-task-fourteen > input:valid {
+    background: green;
+}
+.lesson-four-task-fourteen > input:invalid {
+    background: red;
+}
+
+/* Завдання №15  */
+.lesson-four-task-fifteen  #name:optional,#message:optional {
+    background: red;
+}
+
+/* Завдання №16  */
+.lesson-four-task-sixteen > form > input:out-of-range {
+    background: red;
+}
+
+/* Завдання №17  */
+.lesson-four-task-seventeen> form > input:in-range {
+    background: red;
+}
+
+/* Завдання №18  */
+.lesson-four-task-eighteen > input:placeholder-shown {
+    background: red;
+}
+
+/* Завдання №19  */
+.lesson-four-task-nineteen > div > button:focus-within {
+    background: yellow;
+    color: #fff;
+}
+
+/* Завдання №20  */
+.lesson-four-task-twenty > form > label > input:invalid {
+    background: red;
+}
+
+
+
+
 
